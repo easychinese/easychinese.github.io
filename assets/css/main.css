@@ -2285,8 +2285,8 @@ input, select, textarea {
 			-webkit-flex-direction: column;
 			-ms-flex-direction: column;
 			flex-direction: column;
-			margin-left: 0;
-			text-align: center;
+			margin-left: 10px;
+			text-align: left;
 		}
 
 			ul.actions.stacked li {
