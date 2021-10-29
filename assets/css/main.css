@@ -2291,6 +2291,7 @@ input, select, textarea {
 
 			ul.actions.stacked li {
 				padding: 1.125em 0 0 0;
+				text-align: left;
 			}
 
 				ul.actions.stacked li:first-child {
