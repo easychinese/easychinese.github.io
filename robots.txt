@@ -1,3 +1,2 @@
-># allow google
 User-agent: *
 Allow: /
