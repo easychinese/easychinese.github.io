@@ -1,2 +1,4 @@
+Sitemap: https://chenf777.github.io/sitemap.xml
+
 User-agent: *
 Allow: /
