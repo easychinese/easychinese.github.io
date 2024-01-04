@@ -11,8 +11,10 @@
 
   gtag('config', 'G-XR8K5DZJTZ');
 </script>
-		<title>Youtube video resources--Easy Chinese: Learn Chinese Online Easier Much More!</title>
-		<meta name="title" content="Youtube video resources--Easy Chinese: Learn Chinese Online Easier Much More!">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Youtube video resources--Easy Chinese: Learn Chinese Online Easier Much More!</title>
+<!-- TemplateEndEditable -->
+<meta name="title" content="Youtube video resources--Easy Chinese: Learn Chinese Online Easier Much More!">
 		<meta name="description" content="Interesting, useful, impressive Chinese learning videos from Youtubers">
 		<meta name="keywords" content="Learn, Chinese, effective, Easy, Youtube, Online">
 		<meta name="robots" content="index, follow">
@@ -22,17 +24,19 @@
 		<meta name="author" content="Winston A.">
 		<meta name="google-site-verification" content="3b4HNa6zVNGtwh1QTwfOECFI35pBSGG7O8Hq8iLbGVE" />
 		<!--网页标题左侧显示-->
-        <link rel="icon" href="11.ico" type="image/x-icon">
+        <link rel="icon" href="../11.ico" type="image/x-icon">
         <!--收藏夹显示图标-->
-        <link rel="shortcut icon" href="11.ico" type="image/x-icon">
-		<link rel="stylesheet" href="assets/css/main.css" />
-	</head>
+        <link rel="shortcut icon" href="../11.ico" type="image/x-icon">
+		<link rel="stylesheet" href="../assets/css/main.css" />
+    <!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
 	<body class="is-preload">
 
 		<!-- Header -->
 			<section id="header">
 				<header>
-					<span class="image web1"><img src="images/CL.jpg" height="130" width="130"/>
+					<span class="image web1"><img src="../images/CL.jpg" height="130" width="130"/>
 					</span>
 					<h1 id="logo"><a>Winston A.</a></h1>
 					<p>
@@ -73,7 +77,7 @@
 						<!-- One -->
 							<section id="one">
 								<div class="image main" data-position="center">
-									<img src="images/chnban5.jpg" alt="Learn Chinese" />
+									<img src="../images/chnban5.jpg" alt="Learn Chinese" />
 								</div>
 								<div class="container">
 									<header class="major">
